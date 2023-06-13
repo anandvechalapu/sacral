@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sacral.Service/1.0.0": {
+        "dependencies": {
+          "Sacral.DTO": "1.0.0",
+          "Sacral.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "Sacral.Service.dll": {}
+        }
+      },
+      "Sacral.DataAccess/1.0.0": {
+        "dependencies": {
+          "Sacral.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Sacral.DataAccess.dll": {}
+        }
+      },
+      "Sacral.DTO/1.0.0": {
+        "runtime": {
+          "Sacral.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sacral.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sacral.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sacral.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

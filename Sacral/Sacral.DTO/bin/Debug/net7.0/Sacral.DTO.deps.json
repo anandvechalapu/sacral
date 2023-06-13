@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sacral.DTO/1.0.0": {
+        "runtime": {
+          "Sacral.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sacral.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
