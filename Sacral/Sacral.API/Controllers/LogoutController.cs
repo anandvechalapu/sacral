@@ -8,24 +8,25 @@ namespace Sacral.API
     [ApiController]
     public class LogoutController : ControllerBase
     {
-        private readonly LogoutService _logoutService;
+        private readonly LogoutServiceImpl _logoutServiceImpl;
 
-        public LogoutController(LogoutService logoutService)
+        public LogoutController(LogoutServiceImpl logoutServiceImpl)
         {
-            _logoutService = logoutService;
+            _logoutServiceImpl = logoutServiceImpl;
         }
 
-        [HttpPost]
-        public async Task<IActionResult> PostAsync([FromBody] LogoutDto logoutDto)
+        [HttpPost("logout")]
+        public async Task<IActionResult> LogoutAsync(LogoutDto logoutDto)
         {
-            var isLoggedOut = await _logoutService.LogoutAsync(logoutDto);
-            if (isLoggedOut)
+            bool result = await _logoutServiceImpl.LogoutAsync(logoutDto.UserId);
+
+            if(result)
             {
                 return Ok();
             }
             else
             {
-                return Unauthorized();
+                return BadRequest();
             }
         }
     }

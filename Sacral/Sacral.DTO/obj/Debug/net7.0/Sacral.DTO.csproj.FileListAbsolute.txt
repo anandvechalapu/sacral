@@ -22,3 +22,15 @@ C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.DTO\ob
 C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.DTO\obj\Debug\net7.0\refint\Sacral.DTO.dll
 C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.pdb
 C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.DTO\obj\Debug\net7.0\ref\Sacral.DTO.dll
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\bin\Debug\net7.0\Sacral.DTO.deps.json
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\bin\Debug\net7.0\Sacral.DTO.dll
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\bin\Debug\net7.0\Sacral.DTO.pdb
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.csproj.AssemblyReference.cache
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.AssemblyInfoInputs.cache
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.AssemblyInfo.cs
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.dll
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\refint\Sacral.DTO.dll
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\Sacral.DTO.pdb
+C:\Amar\Application\20230529_Debug\Apps\1\1137\202306135132\Sacral\Sacral.DTO\obj\Debug\net7.0\ref\Sacral.DTO.dll
