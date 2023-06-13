@@ -791,11 +791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.Service\\Sacral.Service.csproj",
+      "projectUniqueName": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.Service\\Sacral.Service.csproj",
       "projectName": "Sacral.Service",
-      "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.Service\\Sacral.Service.csproj",
+      "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.Service\\Sacral.Service.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.Service\\obj\\",
+      "outputPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -810,11 +810,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.DataAccess\\Sacral.DataAccess.csproj": {
-              "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.DataAccess\\Sacral.DataAccess.csproj"
+            "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.DataAccess\\Sacral.DataAccess.csproj": {
+              "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.DataAccess\\Sacral.DataAccess.csproj"
             },
-            "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj": {
-              "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj"
+            "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj": {
+              "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj"
             }
           }
         }

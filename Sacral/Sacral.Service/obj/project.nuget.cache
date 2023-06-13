@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHxKCDNPM/LxeRDHPi46XT8C/bP0xJ0amuLc97HI3C0WDAdwjmb4qXUgQm5HfhjGN3E4Y51MFXauEk4kU7PmiQ==",
+  "dgSpecHash": "WA27xZjm1qcxlakgXxmoiz1a18XvEe+6Q1acTW1JH/Fn8PnwFpzjXuVc7vA9ehxIdusSnUC3soWiXMZCTtHg9w==",
   "success": true,
-  "projectFilePath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1137\\202306135132\\Sacral\\Sacral.Service\\Sacral.Service.csproj",
+  "projectFilePath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1138\\202306130222\\Sacral\\Sacral.Service\\Sacral.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
