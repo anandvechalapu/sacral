@@ -54,3 +54,13 @@ C:\Amar\Application\20230529_Debug\Apps\1\1136\202306132532\Sacral\Sacral.API\bi
 C:\Amar\Application\20230529_Debug\Apps\1\1136\202306132532\Sacral\Sacral.API\bin\Debug\net7.0\System.Web.Http.dll
 C:\Amar\Application\20230529_Debug\Apps\1\1136\202306132532\Sacral\Sacral.API\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Amar\Application\20230529_Debug\Apps\1\1136\202306132532\Sacral\Sacral.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.csproj.AssemblyReference.cache
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.AssemblyInfoInputs.cache
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.AssemblyInfo.cs
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.csproj.CoreCompileInputs.cache
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.dll
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\refint\Sacral.API.dll
+C:\Amar\Application\20230529_Debug\Apps\1\1135\202306134132\Sacral\Sacral.API\obj\Debug\net7.0\Sacral.API.pdb

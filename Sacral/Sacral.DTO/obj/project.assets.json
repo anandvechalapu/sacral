@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1136\\202306132532\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj",
+      "projectUniqueName": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1135\\202306134132\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj",
       "projectName": "Sacral.DTO",
-      "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1136\\202306132532\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj",
+      "projectPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1135\\202306134132\\Sacral\\Sacral.DTO\\Sacral.DTO.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1136\\202306132532\\Sacral\\Sacral.DTO\\obj\\",
+      "outputPath": "C:\\Amar\\Application\\20230529_Debug\\Apps\\1\\1135\\202306134132\\Sacral\\Sacral.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
